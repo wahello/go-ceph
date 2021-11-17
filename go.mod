@@ -7,4 +7,5 @@ require (
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/sys v0.0.0-20200501145240-bc7a7d42d5c3
+	modernc.org/cc/v3 v3.35.18
 )
